@@ -39,14 +39,16 @@ This project simulates real banking operations such as managing clients, users, 
 - All client and user data stored in files<br>
 - Transaction logs saved in dedicated log files<br>
 <br>
-Client Data is stored in Clients.txt using a custom delimiter #//#.<br>
+
+## Client Data is stored in `Clients.txt` using a custom delimiter `#//#`.<br>
 🏷 Data Format (Clients.txt)<br>
 <br>
 AccountNumber#//#PinCode#//#Name#//#Phone#//#Balance<br>
 A150#//#197008#//#Shehab Abdullah#//#0536242467#//#20000<br>
 
 <br>
-UserData is stored in Users.txt using a custom delimiter #//#.<br>
+
+## UserData is stored in Users.txt using a custom delimiter `#//#`.<br>
 🏷 Data Format (Users.txt)<br>
 <br>
 FirstName#//#LastName#//#Email#//##//#Phone#//#PasswordWithEncription#//#Permissions<br>
@@ -66,6 +68,7 @@ Shehab#//#Al-Fariee#//#shehab.a.alfariee@gmail.com#//#536242467#//#Sh#//#y};<=>#
 ---
 📸 Some Of Screenshots Of Interfaces <br>
 
+## 🖥 Interface (Menu Preview)<br>
 ===========================================<br>
             Login Screen<br>
 ===========================================<br>
