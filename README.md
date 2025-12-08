@@ -64,6 +64,7 @@ Shehab#//#Al-Fariee#//#shehab.a.alfariee@gmail.com#//#536242467#//#Sh#//#y};<=>#
 - Inheritance<br>
 - Polymorphism<br>
 - Abstraction<br>
+- Abstract Class/Interface<br>
 - Separation of concerns using classes<br>
 
 ---
