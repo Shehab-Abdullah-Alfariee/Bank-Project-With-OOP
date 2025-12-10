@@ -1,0 +1,61 @@
+﻿  BankProject-With-OOP.cpp
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsString.h(44,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsString.h(49,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsString.h(61,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsString.h(198,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsString.h(329,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsString.h(377,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsUtil.h(65,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsUser.h(193,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProject-With-OOP.cpp')
+      D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsUser.h(81,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(184,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransfareLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProject-With-OOP.cpp')
+      D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(49,12):
+      see declaration of 'clsBankClient::stTransfareLogRecord'
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(61,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(394,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(407,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsTotalBalanceScreen.h(59,52): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsCurrencyCalculateScreen.h(77,27): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsCurrencyCalculateScreen.h(83,31): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'BankProject-With-OOP.cpp')
+  
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(354,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsUser.h(350,1): warning C4715: 'clsUser::Save': not all control paths return a value
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsBankClient.h(410,1): warning C4715: 'clsBankClient::WithDraw': not all control paths return a value
+D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\BankProject-With-OOP\clsCurrency.h(260,1): warning C4715: 'clsCurrency::ConvertToOtherCurrency': not all control paths return a value
+  BankProject-With-OOP.vcxproj -> D:\Shehab Abdullah\دورات\Projects\BankProject-With-OOP\x64\Debug\BankProject-With-OOP.exe
