@@ -15,7 +15,9 @@ This project simulates real banking operations such as managing clients, users, 
 ✅ Deposit money<br>
 ✅ Withdraw money (with balance validation)<br>
 ✅ View total bank balances<br>
+✅ Currency Exchange.<br>
 ✅ Persistent storage using a text file (Clients.txt)<br>
+
 ### 👥 Client Management<br>
 ✅ Add new clients<br>
 ✅ Update client information<br>
@@ -34,7 +36,15 @@ This project simulates real banking operations such as managing clients, users, 
 ✅ Withdraw money<br>
 ✅ Transfer between accounts<br>
 ✅ View total balances<br>
-<br>
+
+### 💰 Currencies Operations<br>
+✅ List Currencies.<br>
+✅ Find Currency.<br>
+✅ Update Rate.<br>
+✅ Currency Calculator.<br>
+
+## User Can Only Update (Exhange Rate), All Data Of  Currencies is  stored in `Currencies.txt`.<br>
+
 ### 🧾 Logs & Storage<br>
 - All client and user data stored in files<br>
 - Transaction logs saved in dedicated log files<br>
