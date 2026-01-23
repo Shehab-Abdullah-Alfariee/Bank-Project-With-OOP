@@ -82,9 +82,8 @@ cd your-repo-name
 g++ main.cpp -o bank_system
 ./bank_system
 
+```
 
-
----
 📸 Some Of Screenshots Of Interfaces <br>
 
 ## 🖥 Interface (Menu Preview)<br>
