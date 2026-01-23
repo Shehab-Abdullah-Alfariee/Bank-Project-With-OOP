@@ -1,81 +1,88 @@
-# 🏦 Bank Project – OOP (C++)
+# 🏦 Bank Management System – OOP (C++)
 
-A full console-based Bank Management System built using C++ and Object-Oriented Programming (OOP) concepts.  
-This project simulates real banking operations such as managing clients, users, and financial transactions.
+A full-featured console-based **Bank Management System** developed in **C++** using **Object-Oriented Programming (OOP)** principles.  
+The project simulates real-world banking operations including client management, user authentication, financial transactions, and currency exchange.
 
 ---
 
-## 📌 Project Features
+## 📌 Key Features
 
-✅ Display client list<br>
-✅ Add new client<br>
-✅ Update client information<br>
-✅ Delete client<br>
-✅ Search for a client by account number<br>
-✅ Deposit money<br>
-✅ Withdraw money (with balance validation)<br>
-✅ View total bank balances<br>
-✅ Currency Exchange.<br>
-✅ Persistent storage using a text file (Clients.txt)<br>
+### 👥 Client Management
+- Add, update, delete, and search clients
+- Display full client list
+- Persistent client data storage using text files
 
-### 👥 Client Management<br>
-✅ Add new clients<br>
-✅ Update client information<br>
-✅ Delete clients<br>
-✅ Find clients<br>
-✅ List all clients<br>
-<br>
-### 🔐 User Management<br>
-✅ User login system<br>
-✅ Register new users<br>
-✅ Update and delete users<br>
-✅ List all users<br>
-<br>
-### 💰 Banking Operations<br>
-✅ Deposit money<br>
-✅ Withdraw money<br>
-✅ Transfer between accounts<br>
-✅ View total balances<br>
+### 🔐 User Management
+- Secure user login system
+- Add, update, and delete users
+- User permissions management
+- List all registered users
 
-### 💰 Currencies Operations<br>
-✅ List Currencies.<br>
-✅ Find Currency.<br>
-✅ Update Rate.<br>
-✅ Currency Calculator.<br>
+### 💰 Banking Operations
+- Deposit money
+- Withdraw money with balance validation
+- Transfer money between accounts
+- View total bank balances
 
-## User Can Only Update (Exhange Rate), All Data Of  Currencies is  stored in `Currencies.txt`.<br>
+### 💱 Currency Exchange
+- List and search currencies
+- Update exchange rates (admin only)
+- Currency calculator
+- Currency data stored in `Currencies.txt`
 
-### 🧾 Logs & Storage<br>
-- All client and user data stored in files<br>
-- Transaction logs saved in dedicated log files<br>
-<br>
+---
 
-## Client Data is stored in `Clients.txt` using a custom delimiter `#//#`.<br>
-🏷 Data Format (Clients.txt)<br>
-<br>
+## 🧾 Data Storage
+- Client data stored in `Clients.txt`
+- User data stored in `Users.txt`
+- Currency data stored in `Currencies.txt`
+- Transaction logs saved in dedicated log files
+- Custom delimiter used: `#//#`
+
+---
+
+## 🏷 Data Format Examples
+
+### Data Format (Clients.txt)
+
 AccountNumber#//#PinCode#//#Name#//#Phone#//#Balance<br>
 A150#//#197008#//#Shehab Abdullah#//#0536242467#//#20000<br>
 
-<br>
+ ### Data Format (Users.txt)
 
-## UserData is stored in Users.txt using a custom delimiter `#//#`.<br>
-🏷 Data Format (Users.txt)<br>
-<br>
 FirstName#//#LastName#//#Email#//##//#Phone#//#PasswordWithEncription#//#Permissions<br>
 Shehab#//#Al-Fariee#//#shehab.a.alfariee@gmail.com#//#536242467#//#Sh#//#y};<=>#//#-1<br>
 
+---
+
+## 🧱 OOP Concepts Applied
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Abstract Classes / Interfaces  
+- Separation of Concerns using multiple classes  
 
 ---
-<br>
 
-## 🧱 OOP Concepts Implemented<br>
-<br>
-- Encapsulation<br>
-- Inheritance<br>
-- Polymorphism<br>
-- Abstraction<br>
-- Abstract Class/Interface<br>
-- Separation of concerns using classes<br>
+## 🧰 Technologies Used
+- **Language:** C++
+- **Programming Paradigm:** Object-Oriented Programming (OOP)
+- **Storage:** Text files
+- **Application Type:** Console Application
+- **Compiler:** g++ or any modern C++ compiler
+
+---
+
+## ⚙️ How to Run
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+g++ main.cpp -o bank_system
+./bank_system
+
+
 
 ---
 📸 Some Of Screenshots Of Interfaces <br>
