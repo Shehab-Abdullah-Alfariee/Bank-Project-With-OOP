@@ -77,14 +77,14 @@ Shehab#//#Al-Fariee#//#shehab.a.alfariee@gmail.com#//#536242467#//#Sh#//#y};<=>#
 ## ⚙️ How to Run
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-g++ main.cpp -o bank_system
-./bank_system
+git clone [https://github.com/Shehab-Abdullah-Alfariee/Bank-Project-With-OOP.git]
+cd Shehab-Abdullah-Alfariee
+g++ main.cpp -o Bank-Project-With-OOP.
+/Bank-Project-With-OOP
 
 ```
 
-📸 Some Of Screenshots Of Interfaces <br>
+📸 Some Screenshots Of Interfaces <br>
 
 ## 🖥 Interface (Menu Preview)<br>
 ===========================================<br>
